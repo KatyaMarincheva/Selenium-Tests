@@ -56,7 +56,7 @@ namespace WebDriverLoginTest
         }
 
         [TestMethod]
-        public void FindEelementByCSSTypeTest()
+        public void FindEelementLinkTextTest()
         {
             using (IWebDriver wdriver = new ChromeDriver(@"dependencies"))
             {
