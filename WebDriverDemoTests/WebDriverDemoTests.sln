@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverLoginTest", "WebDriverLoginTest\WebDriverLoginTest.csproj", "{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "MainProgram\MainProgram.csproj", "{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
