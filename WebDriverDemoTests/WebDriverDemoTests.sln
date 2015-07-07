@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverLoginTest", "WebDriverLoginTest\WebDriverLoginTest.csproj", "{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTests", "WebDriverLoginTest\WebDriverTests.csproj", "{33F909FC-7FCB-40C1-B4C2-E6E88534C99D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "MainProgram\MainProgram.csproj", "{F5B1DFE0-7E42-4B9B-B597-822B7FE4A1CE}"
 EndProject
