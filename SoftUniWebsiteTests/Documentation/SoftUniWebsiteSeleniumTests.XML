@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoftUniWebsiteSeleniumTests</name>
+    </assembly>
+    <members>
+        <member name="T:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests">
+            <summary>
+            The SoftUniWebsiteSeleniumTests class contains 8 methods testing the functionality of the SoftUni website.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Login_RedirectToLoginFromHomePage_ShouldPassTest">
+            <summary>
+            Tests the redirect to login from home page - should pass test.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Login_TryToLoginWithWrongPassword_ShouldProduceErrorMessage">
+            <summary>
+            Tests login with wrong password - should produce error message.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Login_TryToLoginWithCorrectPassword_ShouldPassTest">
+            <summary>
+            Tests login with correct password - should pass test.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Query_LoginAndRunASearch_ShouldPassTest">
+            <summary>
+            Tests query functionality - after the logging in and running a search should returns search results for the keyword "Боровец".
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.ActiveCourses_NavigateThroughDropDownMenu_ShouldPassTest">
+            <summary>
+            Tests the navigation through the Actives the courses dropdown menu - should pass test.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.PreviousCourseInstances_FindLinkByLinkText_ShouldPassTest">
+            <summary>
+            Tests the finding of the Previous course instances link by link text - should pass test.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Lectures_CountRowsNumberInLecturesTable_ShouldPassTest">
+            <summary>
+            Tests if the rows number in the lectures table is correct - should pass test.
+            </summary>
+        </member>
+        <member name="M:SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests.Apply_RedirectToApplyFromSignInPage_ShouldPassTest">
+            <summary>
+            Tests the redirect to application page from sign in page - should pass test.
+            </summary>
+        </member>
+    </members>
+</doc>
