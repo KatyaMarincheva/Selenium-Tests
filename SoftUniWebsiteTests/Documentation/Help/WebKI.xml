@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ActiveCourses_NavigateThroughDropDownMenu_ShouldPassTest method" Url="html/2ba7dd5d-2b25-8591-ca04-6f7127c7dd50.htm" />
+  <HelpKINode Title="Apply_RedirectToApplyFromSignInPage_ShouldPassTest method" Url="html/d46ba8a7-4ce2-00a7-1a9a-4ddd3877e39d.htm" />
+  <HelpKINode Title="Lectures_CountRowsNumberInLecturesTable_ShouldPassTest method" Url="html/0a76e997-74f9-11a8-9c29-63abd6bc59f7.htm" />
+  <HelpKINode Title="Login_RedirectToLoginFromHomePage_ShouldPassTest method" Url="html/c35418b6-5609-ab04-c88c-64191b431eb7.htm" />
+  <HelpKINode Title="Login_TryToLoginWithCorrectPassword_ShouldPassTest method" Url="html/44b5bb70-5a3d-53af-55de-e057bcf2d180.htm" />
+  <HelpKINode Title="Login_TryToLoginWithWrongPassword_ShouldProduceErrorMessage method" Url="html/77067bc3-599a-8518-40d8-40bc33631e3a.htm" />
+  <HelpKINode Title="Main method" Url="html/1fa3b83a-59c8-96fd-a482-2ae76091d3d8.htm" />
+  <HelpKINode Title="PreviousCourseInstances_FindLinkByLinkText_ShouldPassTest method" Url="html/b9663cc1-e5a3-d8c3-39b5-026bc6ae3f32.htm" />
+  <HelpKINode Title="Query_LoginAndRunASearch_ShouldPassTest method" Url="html/23a2f54b-2233-679d-2060-ad069e8d146b.htm" />
+  <HelpKINode Title="SoftUniWebsiteMain class">
+    <HelpKINode Title="SoftUniWebsiteMain Class" Url="html/e92dd075-bf45-f59e-80e7-1078e538236a.htm" />
+    <HelpKINode Title="about SoftUniWebsiteMain class" Url="html/e92dd075-bf45-f59e-80e7-1078e538236a.htm" />
+    <HelpKINode Title="constructor" Url="html/42cabc07-25b0-f199-3c59-4a26c1afd27d.htm" />
+    <HelpKINode Title="methods" Url="html/34264e89-a071-f2bb-72ea-e002236a5e71.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SoftUniWebsiteMain namespace" Url="html/f5326348-f404-029b-a8e6-8a6a907eaf55.htm" />
+  <HelpKINode Title="SoftUniWebsiteMain.Main method" Url="html/1fa3b83a-59c8-96fd-a482-2ae76091d3d8.htm" />
+  <HelpKINode Title="SoftUniWebsiteMain.SoftUniWebsiteMain class" Url="html/e92dd075-bf45-f59e-80e7-1078e538236a.htm" />
+  <HelpKINode Title="SoftUniWebsiteMain.SoftUniWebsiteMain constructor" Url="html/42cabc07-25b0-f199-3c59-4a26c1afd27d.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests class">
+    <HelpKINode Title="SoftUniWebsiteSeleniumTests Class" Url="html/4412d365-7f22-8195-7ce8-3c86f0e48eba.htm" />
+    <HelpKINode Title="about SoftUniWebsiteSeleniumTests class" Url="html/4412d365-7f22-8195-7ce8-3c86f0e48eba.htm" />
+    <HelpKINode Title="constructor" Url="html/ec1dff2b-a202-269a-e026-0a6b0c81a153.htm" />
+    <HelpKINode Title="methods" Url="html/1b264e05-12d2-3cdb-2a42-75a270b6dd48.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests namespace" Url="html/9a13300c-ac7a-5c45-3700-52da89d9405e.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.ActiveCourses_NavigateThroughDropDownMenu_ShouldPassTest method" Url="html/2ba7dd5d-2b25-8591-ca04-6f7127c7dd50.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Apply_RedirectToApplyFromSignInPage_ShouldPassTest method" Url="html/d46ba8a7-4ce2-00a7-1a9a-4ddd3877e39d.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Lectures_CountRowsNumberInLecturesTable_ShouldPassTest method" Url="html/0a76e997-74f9-11a8-9c29-63abd6bc59f7.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Login_RedirectToLoginFromHomePage_ShouldPassTest method" Url="html/c35418b6-5609-ab04-c88c-64191b431eb7.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Login_TryToLoginWithCorrectPassword_ShouldPassTest method" Url="html/44b5bb70-5a3d-53af-55de-e057bcf2d180.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Login_TryToLoginWithWrongPassword_ShouldProduceErrorMessage method" Url="html/77067bc3-599a-8518-40d8-40bc33631e3a.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.PreviousCourseInstances_FindLinkByLinkText_ShouldPassTest method" Url="html/b9663cc1-e5a3-d8c3-39b5-026bc6ae3f32.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.Query_LoginAndRunASearch_ShouldPassTest method" Url="html/23a2f54b-2233-679d-2060-ad069e8d146b.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests class" Url="html/4412d365-7f22-8195-7ce8-3c86f0e48eba.htm" />
+  <HelpKINode Title="SoftUniWebsiteSeleniumTests.SoftUniWebsiteSeleniumTests constructor" Url="html/ec1dff2b-a202-269a-e026-0a6b0c81a153.htm" />
+</HelpKI>

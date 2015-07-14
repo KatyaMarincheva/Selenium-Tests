@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3f25818e-e64e-43b3-9d9a-bf0867921f46" Title="SoftUniWebsiteMain" Url="html/f5326348-f404-029b-a8e6-8a6a907eaf55.htm">
+    <HelpTOCNode Id="3e6a0a92-ea9e-4300-aae2-c979cf9a82b4" Title="SoftUniWebsiteMain Class" Url="html/e92dd075-bf45-f59e-80e7-1078e538236a.htm">
+      <HelpTOCNode Title="SoftUniWebsiteMain Constructor " Url="html/42cabc07-25b0-f199-3c59-4a26c1afd27d.htm" />
+      <HelpTOCNode Id="3f011f13-1d02-4081-a86f-3daca151c0c2" Title="SoftUniWebsiteMain Methods" Url="html/34264e89-a071-f2bb-72ea-e002236a5e71.htm">
+        <HelpTOCNode Title="Main Method " Url="html/1fa3b83a-59c8-96fd-a482-2ae76091d3d8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d918b1d8-ab74-4087-96e9-2cbf8dbf8f82" Title="SoftUniWebsiteSeleniumTests" Url="html/9a13300c-ac7a-5c45-3700-52da89d9405e.htm">
+    <HelpTOCNode Id="73b6dbfa-9d0a-439e-ae6c-cabca63c0adb" Title="SoftUniWebsiteSeleniumTests Class" Url="html/4412d365-7f22-8195-7ce8-3c86f0e48eba.htm">
+      <HelpTOCNode Title="SoftUniWebsiteSeleniumTests Constructor " Url="html/ec1dff2b-a202-269a-e026-0a6b0c81a153.htm" />
+      <HelpTOCNode Id="34e92e55-59b1-42a3-8214-eeb48bc84db4" Title="SoftUniWebsiteSeleniumTests Methods" Url="html/1b264e05-12d2-3cdb-2a42-75a270b6dd48.htm">
+        <HelpTOCNode Title="ActiveCourses_NavigateThroughDropDownMenu_ShouldPassTest Method " Url="html/2ba7dd5d-2b25-8591-ca04-6f7127c7dd50.htm" />
+        <HelpTOCNode Title="Apply_RedirectToApplyFromSignInPage_ShouldPassTest Method " Url="html/d46ba8a7-4ce2-00a7-1a9a-4ddd3877e39d.htm" />
+        <HelpTOCNode Title="Lectures_CountRowsNumberInLecturesTable_ShouldPassTest Method " Url="html/0a76e997-74f9-11a8-9c29-63abd6bc59f7.htm" />
+        <HelpTOCNode Title="Login_RedirectToLoginFromHomePage_ShouldPassTest Method " Url="html/c35418b6-5609-ab04-c88c-64191b431eb7.htm" />
+        <HelpTOCNode Title="Login_TryToLoginWithCorrectPassword_ShouldPassTest Method " Url="html/44b5bb70-5a3d-53af-55de-e057bcf2d180.htm" />
+        <HelpTOCNode Title="Login_TryToLoginWithWrongPassword_ShouldProduceErrorMessage Method " Url="html/77067bc3-599a-8518-40d8-40bc33631e3a.htm" />
+        <HelpTOCNode Title="PreviousCourseInstances_FindLinkByLinkText_ShouldPassTest Method " Url="html/b9663cc1-e5a3-d8c3-39b5-026bc6ae3f32.htm" />
+        <HelpTOCNode Title="Query_LoginAndRunASearch_ShouldPassTest Method " Url="html/23a2f54b-2233-679d-2060-ad069e8d146b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
