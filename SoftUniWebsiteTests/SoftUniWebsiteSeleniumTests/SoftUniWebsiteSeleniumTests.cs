@@ -11,6 +11,7 @@ namespace SoftUniWebsiteSeleniumTests
     using OpenQA.Selenium;
     using OpenQA.Selenium.Chrome;
     using OpenQA.Selenium.Firefox;
+    using OpenQA.Selenium.IE;
 
     /// <summary>
     /// The SoftUniWebsiteSeleniumTests class contains 8 methods testing the functionality of the SoftUni website.
@@ -171,6 +172,19 @@ namespace SoftUniWebsiteSeleniumTests
                 wdriver.FindElement(By.Id("loginLink")).Click();
 
                 Assert.AreEqual(wdriver.Url, "https://softuni.bg/account/authenticate");
+                wdriver.Quit();
+            }
+        }
+
+        [TestMethod]
+        public void Softuni_OpenSoftUniWebsite_ShouldPassTest()
+        {
+            using (IWebDriver wdriver = new InternetExplorerDriver())
+            {
+                wdriver.Navigate().GoToUrl("https://softuni.bg/trainings/1175/High-Quality-Code-July-2015");
+                wdriver.FindElement(By.TagName("body")).Click();
+                string actualLinkText = wdriver.FindElement(By.LinkText("Предишни инстанции на курса")).Text;
+
                 wdriver.Quit();
             }
         }
